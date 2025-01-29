@@ -100,7 +100,7 @@
 clone项目：
 
 ```
-git clone https://github.com/oldTimer98/react-ts-music.git
+git clone https://github.com/wangchaozi/react-ts-music.git
 ```
 
 安装项目依赖：
